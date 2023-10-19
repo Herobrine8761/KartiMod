@@ -1,6 +1,6 @@
 # KartiMod - Intended to add more fun to Minecraft!
 ## ⚠️ NOTICE ⚠️
-> This Mod has been discontinued and no further updates will be made to it.
+> ## This Mod has been discontinued and no further updates will be made to it.
 
 ## About the Developer
 Karti The Developer, or Karti for short, is the creator of this mod. He worked almost 3 days continuously in order to move this mod from the developer channel to a more stable channel.
